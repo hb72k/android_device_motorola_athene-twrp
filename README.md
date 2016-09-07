@@ -14,7 +14,7 @@ Add to `.repo/local_manifests/athene.xml`:
 ```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-	<project path="device/motorola/athene" remote="github" name="android_device_motorola_athene" revision="twrp" />
+	<project path="device/motorola/athene" name="hb72k/android_device_motorola_athene" remote="twrp" revision="twrp" />
 </manifest>
 ```
 
